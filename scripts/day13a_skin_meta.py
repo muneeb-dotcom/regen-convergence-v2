@@ -1,0 +1,17 @@
+import pandas as pd
+
+condition_map = {
+    "GSM5429653_T1": "baseline",
+    "GSM5429654_T2": "baseline",
+    "GSM5429655_T3": "baseline",
+    "GSM5429656_T-7P": "scarring",
+    "GSM5429657_T-7V": "regenerative",
+    "GSM5429658_T-14P": "scarring",
+    "GSM5429659_T-14V": "regenerative",
+    "GSM5429660_T-30P": "scarring",
+    "GSM5429661_T-30V": "regenerative",
+}
+
+meta = pd.DataFrame({"condition": condition_map})
+meta.to_csv("data/processed/skin_sample_metadata.csv")
+print(meta)
