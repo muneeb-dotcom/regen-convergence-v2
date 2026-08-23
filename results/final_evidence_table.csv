@@ -1,0 +1,5 @@
+gene,logFC_skin,padj_skin,degree,betweenness,ion_channel_flag,matched_GO_terms,mean_abs_SHAP,pubmed_count,literature_tier
+Dusp4,-1.91505548554784,0.999550560551813,0,0.0,False,,0.0404395938284858,4,Studied elsewhere
+Nfatc1,1.10105541432078,0.999550560551813,1,0.0,False,,0.0492837974426723,57,Known regulator
+Saa3,-0.972944950504547,0.999550560551813,0,0.0,False,,0.1403031983564844,3,Studied elsewhere
+Sfrp4,1.68576054665343,0.618863488384081,1,0.0,False,,0.0306050561062197,7,Known regulator

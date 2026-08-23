@@ -1,0 +1,22 @@
+# Day 18 — Literature tiers
+
+## Nfatc1 — Known regulator
+Calcineurin-NFAT signaling directly implicated wound healing regulation
+(fibrosis, keloid, ulcer processes). NFATc1 elevated in hair follicle
+stem cells during wound-adjacent epidermis regeneration. Direct role.
+
+## Sfrp4 — Known regulator
+Strong direct evidence. Wnt inhibitor SFRP4 controls fibrotic vs
+regenerative wound healing fate in mouse skin (WIHN model). Macrophage
+phagocytosis of SFRP4 drives fibrosis; SFRP4 loss favors regeneration.
+Directly matches this project's regeneration vs scarring framework.
+
+## Saa3 — Studied elsewhere
+Extensive literature, inflammation/immunity context (colitis, obesity,
+influenza, adipose tissue). No direct regeneration/wound healing role
+found. Acute-phase, innate immune signaling gene.
+
+## Dusp4 — Studied elsewhere
+MAPK/ERK phosphatase, negative regulator MAPK signaling. Literature in
+cancer, cardiomyopathy, macrophage differentiation. No direct
+regeneration-specific study found.
