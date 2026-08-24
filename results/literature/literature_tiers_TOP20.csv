@@ -1,0 +1,24 @@
+gene,literature_tier,basis
+Nfatc1,Known regulator,NFAT signaling in wound healing; hair follicle stem cell regeneration
+Fn1,Known regulator,"Central provisional matrix protein; multiple mouse wound healing studies, fibrillar FN drives regenerative dermal/epidermal recovery"
+Cxcr4,Known regulator,Documented blastema marker gene in mouse digit tip regeneration studies
+Spp1,Known regulator,"Osteopontin; mouse KO shows altered wound healing, matrix organization, and debridement"
+Bmp4,Known regulator,"Essential, well-established signaling pathway for mouse digit tip regeneration (Msx1-BMP4 axis)"
+Col2a1,Known regulator,Major cartilage collagen; matches digit tip bone/cartilage regeneration process
+Col9a2,Known regulator,Cartilage collagen family; digit-relevant bone/cartilage regeneration
+Sfrp4,Known regulator,Wnt inhibitor; macrophage-mediated clearance controls fibrotic vs regenerative wound fate
+Ptprc,Studied elsewhere,"Pan-leukocyte marker (CD45); general immunology, not regeneration-specific"
+Icam1,Studied elsewhere,Leukocyte adhesion/inflammation; broad literature outside regeneration context
+Bcl2,Studied elsewhere,Apoptosis regulator; predominantly cancer biology literature
+Itgb3,Studied elsewhere,Integrin; mainly platelet biology and general adhesion literature
+Fbn1,Studied elsewhere,Structural ECM protein; primarily Marfan syndrome literature
+Agt,Studied elsewhere,Angiotensinogen; predominantly cardiovascular/renin-angiotensin literature
+Cdh5,Studied elsewhere,"VE-cadherin; angiogenesis/vascular biology, not regeneration-specific"
+Itgb2,Studied elsewhere,Integrin; predominantly leukocyte adhesion/immune literature
+Ncam1,Studied elsewhere,Neural cell adhesion; mainly neural development and cancer literature
+Ccr5,Studied elsewhere,Chemokine receptor; predominantly immunology/HIV literature
+Syk,Studied elsewhere,Immune signaling kinase; broad literature outside regeneration
+Myc,Studied elsewhere,"General proliferation/oncogene; extremely broad, non-regeneration-specific literature"
+Ccnd1,Studied elsewhere,"Cyclin D1, general cell cycle regulator; not regeneration-specific"
+Saa3,Studied elsewhere,"Innate immune/inflammation literature (colitis, obesity, influenza); no direct regeneration role found"
+Dusp4,Studied elsewhere,"MAPK/ERK phosphatase; cancer and cardiac literature, no direct regeneration role found"
